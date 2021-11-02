@@ -5,7 +5,7 @@ stages{
        steps{
              echo 'Pulling...';
              git branch: 'master',
-             url : 'https://github.com/laabidi/TimeSheetDev.git';
+             url : 'https://github.com/naderhaji/TimeSheet.Devops.git';
              }
          }
          
